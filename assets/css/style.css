@@ -1,13 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Gupter:100,200,300,400,500,600,700|EB+Garamond:100,200,300,400,500,600,700|Lexend+Deca:100,200,300,400,500,600,700")
+@import url("https://fonts.googleapis.com/css2?family=Gupter:wght@100;200;300;400;500;600;700&family=EB+Garamond:wght@100;200;300;400;500;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700");
 
 header {
   margin: 0;
 }
 
-
-nailed-it-image {
+.nailed-it-image { 
   display: inline;
 }
+
 /* Home page styling */
 
 body.home-page {
