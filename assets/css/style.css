@@ -1,35 +1,37 @@
-@import url ('https://fonts.googleapis.com/css2?family=Gupter:100,200,300,400,500,600,700|EB+Garamond:100,200,300,400,500,600,700|Lexend+Deca:100,200,300,400,500,600,700')
-
-header {
-    margin: 0;
+@import url
+  (
+    "https://fonts.googleapis.com/css2?family=Gupter:100,200,300,400,500,600,700|EB+Garamond:100,200,300,400,500,600,700|Lexend+Deca:100,200,300,400,500,600,700"
+  )
+  header {
+  margin: 0;
 }
 
-nailed-it-image{
-    display:inline
+nailed-it-image {
+  display: inline;
 }
 
 body {
-    font-family: 'YourFontChoice', sans-serif;
-    background-color: #ff8fab;
-    color: #333;
+  font-family: "YourFontChoice", sans-serif;
+  background-image: url("assets/images/background.jpg");
+  color: #333;
 }
 
 .text-pink {
-    color: #ff69b4;
+  color: #ff69b4;
 }
 
 .card {
-    margin-bottom: 20px;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .card-img-top {
-    border-radius: 10px 10px 0 0;
+  border-radius: 10px 10px 0 0;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+  background-color: #333;
+  color: #fff;
 }
