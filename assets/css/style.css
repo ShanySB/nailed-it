@@ -3,7 +3,7 @@
     "https://fonts.googleapis.com/css2?family=Gupter:100,200,300,400,500,600,700|EB+Garamond:100,200,300,400,500,600,700|Lexend+Deca:100,200,300,400,500,600,700"
   )
   header {
-  margin: 0;
+       margin: 0;
 }
 
 nailed-it-image {
@@ -12,7 +12,9 @@ nailed-it-image {
 
 body {
   font-family: "YourFontChoice", sans-serif;
-  background-image: url("assets/images/background.jpg");
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  background-position: center;
   color: #333;
 }
 
