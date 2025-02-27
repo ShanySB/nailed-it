@@ -3,12 +3,14 @@
 header {
   margin: 0;
 }
-
+/* Home page styling */
 nails-for-nailed-it-image { 
   display: inline;
 }
 
-/* Home page styling */
+.text-pink { color: #FB6F92;
+  text-align: center;
+}
 
 body.home-page {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
