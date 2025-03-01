@@ -14,7 +14,7 @@ nails-for-nailed-it-image {
 
 body.home-page {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/sunset.jpg");
   background-size: cover;
   background-position: center;
   color: #333;
@@ -29,6 +29,10 @@ body.home-page {
 
 .card-img-top {
   border-radius: 10px 10px 0 0;
+}
+
+.custom-bg {
+  background: color #ee0c44;;
 }
 
 footer {
