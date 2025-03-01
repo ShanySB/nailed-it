@@ -14,3 +14,12 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+.custom-bg {
+  background-color: #ffc2d1;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+}
