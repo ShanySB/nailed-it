@@ -27,6 +27,11 @@ ul {
   padding-left: 0;
 }
 
+.btn-pink:hover {
+  background-color: #FB6F92;
+  border-color: #fff;
+}
+
 footer {
   margin-top: auto;
   text-align: center;
