@@ -18,7 +18,18 @@ body {
   background-color: #ffc2d1;
 }
 
+h1, h3 {
+  text-shadow: 0 0 10px white, 0 0 20px white;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 footer {
+  margin-top: auto;
+  text-align: center;
   background-color: #333;
   color: #fff;
 }

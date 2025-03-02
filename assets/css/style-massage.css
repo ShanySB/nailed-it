@@ -15,11 +15,38 @@ body {
   background-position: center;
 }
 
+.card {
+  text-align: center; 
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 10px;
+  max-height: 490px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  border-radius: 10px 10px 0 0;
+  height: 300px;
+  object-fit: cover;
+}
+
 .custom-bg {
   background-color: #ffc2d1;
 }
 
+h1, h3 {
+  text-shadow: 0 0 10px white, 0 0 20px white;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 footer {
+  margin-top: auto;
+  text-align: center;
   background-color: #333;
   color: #fff;
 }
