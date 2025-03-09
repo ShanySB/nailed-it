@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Gupter:wght@100;200;300;400;500;600;700&family=EB+Garamond:wght@100;200;300;400;500;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700");
 
-.text-pink { color: #FB6F92;
+.text-pink { color: #FB6F92 !important;
   text-align: center;
 }
 
@@ -57,4 +57,12 @@ footer {
   text-align: center;
   background-color: #333;
   color: #fff;
+}
+
+footer a {
+  transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+  color: #FB6F92;
 }
