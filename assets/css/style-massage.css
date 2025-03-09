@@ -9,7 +9,11 @@
 } 
 
 .nav-tabs .nav-link:hover {
-  color: hotpink;
+  color: hotpink; 
+}
+
+.nav-tabs {
+  border-bottom: none !important;
 }
 
 img {
@@ -19,7 +23,7 @@ img {
 
 body {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
-  background-image: url("../images/massage1.jpg");
+  background-image: url("../images/sunrise.jpg");
   background-size: cover;
   background-position: center;
 }
