@@ -56,6 +56,10 @@ ul {
   border-color: #fff;
 }
 
+.refer-banner .nav-link:hover {
+  color: hotpink !important;
+}
+
 footer {
   margin-top: auto;
   text-align: center;
