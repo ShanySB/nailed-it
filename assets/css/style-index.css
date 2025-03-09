@@ -20,6 +20,10 @@ nails-for-nailed-it-image {
   color: hotpink;
 } 
 
+.nav-tabs {
+  border-bottom: none !important;
+}
+
 body.home-page {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
   background-image: url("../images/sunset.jpg");
