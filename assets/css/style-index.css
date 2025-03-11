@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gupter:wght@100;200;300;400;500;600;700&family=EB+Garamond:wght@100;200;300;400;500;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700");
 
+/* Header Styling */
+
 header {
   margin: 0;
 }
@@ -24,6 +26,8 @@ nails-for-nailed-it-image {
   border-bottom: none !important;
 }
 
+/* Body Styling */
+
 body.home-page {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
   background-image: url("../images/sunset.jpg");
@@ -31,6 +35,8 @@ body.home-page {
   background-position: center;
   color: #333;
 }
+
+/* Card Styling */
 
 .card {
   text-align: center; 
@@ -60,6 +66,8 @@ ul {
   list-style-type: none;
   padding-left: 0;
 }
+
+/* Footer Styling */
 
 footer {
   background-color: #333;

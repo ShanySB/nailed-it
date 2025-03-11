@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gupter:wght@100;200;300;400;500;600;700&family=EB+Garamond:wght@100;200;300;400;500;600;700&family=Lexend+Deca:wght@100;200;300;400;500;600;700");
 
+/* Header Styling */
+
 .text-pink { color: #FB6F92 !important;
   text-align: center;
 }
@@ -21,12 +23,16 @@ img {
   height: auto;
 }
 
+/* Body Styling */
+
 body {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
   background-image: url("../images/sunrise.jpg");
   background-size: cover;
   background-position: center;
 }
+
+/* Card Styling */
 
 .card {
   text-align: center; 
@@ -56,6 +62,8 @@ ul {
   list-style-type: none;
   padding-left: 0;
 }
+
+/* Footer Styling */
 
 footer {
   margin-top: auto;
