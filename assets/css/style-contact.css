@@ -92,6 +92,19 @@ ul {
   color: hotpink !important;
 }
 
+/* Map Styling */
+
+.map-container {
+  margin: auto;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.map-container iframe {
+  border: 0;
+  border-radius: 15px;
+}
+
 /* Footer Styling */
 
 footer {
