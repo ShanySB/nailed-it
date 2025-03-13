@@ -23,6 +23,26 @@ img {
   height: auto;
 }
 
+/* Therapist & services Styling */
+
+.card-img-top-container {
+  background-color: #ffc2d1 !important;
+  padding: 10px 10px 0;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.card-img-top-container img {
+  width: 100px;
+  height: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.card-body {
+  padding-top: 10px !important;
+}
+
 /* Body Styling */
 
 body {
