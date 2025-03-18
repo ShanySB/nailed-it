@@ -2,16 +2,17 @@
 
 /* Header Styling */
 
-.text-pink { color: #FB6F92 !important;
+.text-pink {
+  color: #fb6f92 !important;
   text-align: center;
 }
 
 .nav-tabs .nav-link {
-  color: #FB6F92;
-} 
+  color: #fb6f92;
+}
 
 .nav-tabs .nav-link:hover {
-  color: hotpink; 
+  color: hotpink;
 }
 
 .nav-tabs {
@@ -27,7 +28,7 @@ img {
 
 body {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
-  background-image: url("../images/sunrise.jpg");
+  background-image: url("assets/images/sunrise.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -35,7 +36,7 @@ body {
 /* Card Styling */
 
 .card {
-  text-align: center; 
+  text-align: center;
   margin-bottom: 20px;
   border: none;
   border-radius: 10px;
@@ -54,7 +55,8 @@ body {
   background-color: #ffc2d1;
 }
 
-h1, h3 {
+h1,
+h3 {
   text-shadow: 0 0 10px white, 0 0 20px white;
 }
 
@@ -64,7 +66,7 @@ ul {
 }
 
 .btn-pink:hover {
-  background-color: #FB6F92;
+  background-color: #fb6f92;
   border-color: #fff;
 }
 
@@ -82,5 +84,5 @@ footer a {
 }
 
 footer a:hover {
-  color: #FB6F92;
+  color: #fb6f92;
 }
