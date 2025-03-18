@@ -28,7 +28,7 @@ img {
 
 body {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
-  background-image: url("assets/images/sunrise.jpg");
+  background-image: url("../images/sunrise.jpg");
   background-size: cover;
   background-position: center;
 }
