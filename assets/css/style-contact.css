@@ -118,6 +118,12 @@ ul {
   border-radius: 15px;
 }
 
+iframe {
+  width: 25%;
+  height: 200px;
+  border: none;
+}
+
 /* Footer Styling */
 
 footer {
