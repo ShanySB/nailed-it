@@ -31,6 +31,7 @@ nails-for-nailed-it-image {
 
 body.home-page {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
+  font-display: swap;
   background-image: url("../images/sunset.jpg");
   background-size: cover;
   background-position: center;
