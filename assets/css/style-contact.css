@@ -34,7 +34,6 @@ img {
   background-color: #ffc2d1 !important;
   padding: 10px 10px 0;
   align-items: center;
-  text-align: stretch;
   margin-bottom: 0;
 }
 
@@ -54,7 +53,6 @@ img {
 
 body {
   font-family: "Gupter", "EB Garamond", "Lexend Deca", sans-serif;
-  font-display: swap;
   background-image: url("../images/peace.jpg");
   background-size: cover;
   background-position: center;
