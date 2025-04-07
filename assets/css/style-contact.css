@@ -2,17 +2,17 @@
 
 /* Header Styling */
 
-.text-pink {
-  color: #fb6f92 !important;
+.text-black {
+  color: hsl(57, 82%, 4%);
   text-align: center;
 }
 
 .nav-tabs .nav-link {
-  color: #fb6f92;
+  color: #d718f0;
 }
 
 .nav-tabs .nav-link:hover {
-  color: hotpink;
+  color: purple;
 }
 
 .nav-tabs {
@@ -94,13 +94,9 @@ ul {
   width: 500px;
 }
 
-.btn-pink:hover {
-  background-color: #fb6f92;
+.btn-purple:hover {
+  background-color: #d718f0 !important;
   border-color: #fff;
-}
-
-.refer-banner .nav-link:hover {
-  color: hotpink !important;
 }
 
 /* Map Styling */
@@ -128,13 +124,18 @@ footer {
   margin-top: auto;
   text-align: center;
   background-color: #333;
-  color: #fff;
+  color: #d718f0 !important;
 }
 
 footer a {
+  color: #d718f0;
   transition: color 0.3s ease-in-out;
 }
 
 footer a:hover {
   color: #fff !important;
+}
+
+footer .social-icon i {
+  color: #d718f0 !important;
 }
